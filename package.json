@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/react": "^1.2.0",
+        "@vitejs/plugin-react": "^4.3.1",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.4",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "vite": "^5.0"
+    },
+    "dependencies": {
+        "@tabler/core": "^1.0.0-beta20",
+        "@tabler/icons-react": "^3.6.0",
+        "formik": "^2.4.6",
+        "lodash": "^4.17.21",
+        "slugify": "^1.6.6",
+        "sonner": "^1.5.0",
+        "yup": "^1.4.0"
+    }
+}
